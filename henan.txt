@@ -13,6 +13,8 @@ CCTV12,http://39.164.202.90:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&a
 CCTV13,http://39.164.202.90:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://39.164.202.90:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://39.164.202.90:8899/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://39.164.202.90:8899/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://39.164.202.90:8899/tsfile/live/0016_4.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://39.164.202.90:8899/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://39.164.202.90:8899/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://39.164.202.90:8899/tsfile/live/0139_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -52,7 +54,6 @@ CCTV15,http://39.164.202.90:8899/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 内蒙古卫视,http://39.164.202.90:8899/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://39.164.202.90:8899/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://39.164.202.90:8899/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://39.164.202.90:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 国学,http://39.164.202.90:8899/tsfile/live/0139_9.m3u8?key=txiptv&playlive=1&authid=0
 国防军事,http://39.164.202.90:8899/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
 驻马店新闻综合1,http://39.164.202.90:8899/tsfile/live/0139_10.m3u8?key=txiptv&playlive=1&authid=0
